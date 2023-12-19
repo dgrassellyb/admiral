@@ -1,5 +1,7 @@
 # admiral (development version)
 
+* testing something
+
 ## New Features
 
 - The new function `derive_vars_extreme_event()`, which works as `derive_extreme_event()` 
